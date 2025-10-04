@@ -96,13 +96,13 @@ h3 { font-size: 1.5rem; }
 }
 
 .logo__image {
-    height: 80px;
+    height: 60px;
     width: auto;
     object-fit: contain;
 }
 
 .logo__image--small {
-    height: 60px;
+    height: 40px;
     width: auto;
     object-fit: contain;
 }
@@ -614,11 +614,11 @@ h3 { font-size: 1.5rem; }
     }
 
     .logo__image {
-        height: 50px;
+        height: 70px;
     }
 
     .logo__image--small {
-        height: 30px;
+        height: 50px;
     }
 
     .hero__title {
