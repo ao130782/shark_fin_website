@@ -96,13 +96,13 @@ h3 { font-size: 1.5rem; }
 }
 
 .logo__image {
-    height: 60px;
+    height: 80px;
     width: auto;
     object-fit: contain;
 }
 
 .logo__image--small {
-    height: 40px;
+    height: 60px;
     width: auto;
     object-fit: contain;
 }
